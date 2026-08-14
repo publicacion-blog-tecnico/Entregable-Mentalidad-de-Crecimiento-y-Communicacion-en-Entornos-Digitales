@@ -1,9 +1,12 @@
  # Entregable-Mentalidad-de-Crecimiento-y-Communicacion-en-Entornos-Digitales
 El objetivo de este trabajo es aplicar estrategias de comunicación adaptativa, mentalidad de desarrollo continuo y optimización de flujos de trabajo en plataformas digitales.
+
 Presentación general y estructura del trabajo.
+
 Alumno: Márquez Camila
 
 Entrada de Blog Técnico: Resolución de Incidente y Aprendizajes
+
 1. Contexto
 Durante el desarrollo e integración de microservicios en un entorno de producción basado en contenedores, gestionamos la infraestructura de comunicación entre un servicio de procesamiento de pagos y la API principal. El objetivo principal del sprint era optimizar la latencia y garantizar alta disponibilidad durante picos de tráfico.
 2. Problema
