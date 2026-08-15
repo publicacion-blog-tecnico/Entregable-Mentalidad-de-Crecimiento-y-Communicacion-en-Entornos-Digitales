@@ -5,7 +5,7 @@ Presentación general y estructura del trabajo.
 
 Alumno: Márquez Camila
 
-Entrada de Blog Técnico: Resolución de Incidente y Aprendizajes
+Entrada de Blog Técnico: Resolución de Incidente y Aprendizajes 
 
 1. Contexto
 Durante el desarrollo e integración de microservicios en un entorno de producción basado en contenedores, gestionamos la infraestructura de comunicación entre un servicio de procesamiento de pagos y la API principal. El objetivo principal del sprint era optimizar la latencia y garantizar alta disponibilidad durante picos de tráfico.
